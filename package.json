@@ -1,0 +1,9 @@
+{
+  "name": "qr-code-component",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
