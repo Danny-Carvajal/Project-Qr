@@ -62,7 +62,6 @@ Users should be able to:
 
 ### Code Highlights
 
-===Css====
 @media(max-width: 600px){
 body {
 min-width: 100vw;
@@ -71,7 +70,6 @@ max-width: 100vw;
 padding: 1.5rem;
 }
 }
-==========
 
 ## 🔮 Future Development
 
